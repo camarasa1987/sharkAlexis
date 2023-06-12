@@ -2,6 +2,7 @@
 
 El objetivo del proyecto es limpiar los datos para que estos puedan leerse de una manera más amena para aquel usuario que desee chequear este data frame.
 
+Pasos seguidos:
 
 1) Indago en cuales son los nombres de las columna columnas del data frame.
 2) Compruebo que tengo muchos nulos.
