@@ -1,5 +1,8 @@
 # Proyecto Sharks [Alexis Camarasa]
 
+![shark](https://github.com/camarasa1987/sharkAlexis/blob/main/shark.jpg)
+
+
 El objetivo del proyecto es limpiar los datos para que estos puedan leerse de una manera más amena para aquel usuario que desee chequear este data frame.
 
 Pasos seguidos:
