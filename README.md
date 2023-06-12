@@ -1,11 +1,11 @@
-# Proyecto Sharks [Alexis Camarasa]
+# Proyecto Sharks
 
 ![shark](https://github.com/camarasa1987/sharkAlexis/blob/main/shark.jpg)
 
 
 El objetivo del proyecto es limpiar los datos para que estos puedan leerse de una manera más amena para aquel usuario que desee chequear este data frame.
 
-Pasos seguidos:
+## Pasos seguidos:
 
 1) Indago en cuales son los nombres de las columna columnas del data frame.
 2) Compruebo que tengo muchos nulos.
